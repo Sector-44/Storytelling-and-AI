@@ -1,5 +1,19 @@
-# HOLLMWOOD: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing (https://arxiv.org/pdf/2406.11683) - June, 2024
+# Understanding Screenwriters’ Practices, Attitudes, and Future Expectations in Human-AI Co-Creation (https://arxiv.org/pdf/2502.16153) - February, 2025
+With the rise of AI technologies and their growing influence in
+the screenwriting field, understanding the opportunities and concerns related to AI’s role in screenwriting is essential for enhancing
+human-AI co-creation. Through semi-structured interviews with
+23 screenwriters, we explored their creative practices, attitudes,
+and expectations in collaborating with AI for screenwriting. Based
+on participants’ responses, we identified the key stages in which
+they commonly integrated AI, including story structure & plot development, screenplay text, goal & idea generation, and dialogue.
+Then, we examined how different attitudes toward AI integration
+influence screenwriters’ practices across various workflow stages
+and their broader impact on the industry. Additionally, we categorized their expected assistance using four distinct roles of AI: actor,
+audience, expert, and executor. Our findings provide insights into
+AI’s impact on screenwriting practices and offer suggestions on
+how AI can benefit the future of screenwriting.
 
+# HOLLMWOOD: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing (https://arxiv.org/pdf/2406.11683) - June, 2024
 Generative AI has demonstrated unprecedented
 creativity in artistic creation, especially in the
 field of computer vision, yet such phenomena
