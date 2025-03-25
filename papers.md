@@ -1,3 +1,19 @@
+# Improve LLMs’ Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States (https://arxiv.org/pdf/2503.03340) - March, 2025
+Theory-of-Mind (ToM), the ability to infer
+others’ perceptions and mental states, is fundamental to human interaction but remains a
+challenging task for Large Language Models
+(LLMs). While existing ToM reasoning methods show promise with reasoning via perceptual perspective-taking, they often rely excessively on LLMs, reducing their efficiency and
+limiting their applicability to high-order ToM
+reasoning, which requires multi-hop reasoning about characters’ beliefs. To address these
+issues, we present EnigmaToM, a novel neurosymbolic framework that enhances ToM reasoning by integrating a Neural Knowledge Base
+of entity states (Enigma) for (1) a psychologyinspired iterative masking mechanism that facilitates accurate perspective-taking and (2)
+knowledge injection that elicits key entity information. Enigma generates structured representations of entity states, which construct
+spatial scene graphs—leveraging spatial information as an inductive bias—for belief tracking
+of various ToM orders and enhancing events
+with fine-grained entity state details. Experimental results on multiple benchmarks, including ToMi, HiToM, and FANToM, show that
+EnigmaToM significantly improves ToM reasoning across LLMs of varying sizes, particularly
+excelling in high-order reasoning scenarios
+
 # PodAgent: A Comprehensive Framework for Podcast Generation (https://arxiv.org/pdf/2503.00455) - March, 2025
 Existing automatic audio generation methods
 struggle to generate podcast-like audio programs effectively. The key challenges lie in
