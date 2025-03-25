@@ -1,3 +1,18 @@
+# PodAgent: A Comprehensive Framework for Podcast Generation (https://arxiv.org/pdf/2503.00455) - March, 2025
+Existing automatic audio generation methods
+struggle to generate podcast-like audio programs effectively. The key challenges lie in
+in-depth content generation, appropriate and expressive voice production. This paper proposed
+PodAgent, a comprehensive framework for creating audio programs. PodAgent 1) generates
+informative topic-discussion content by designing a Host-Guest-Writer multi-agent collaboration system, 2) builds a voice pool for suitable voice-role matching and 3) utilizes LLMenhanced speech synthesis method to generate
+expressive conversational speech. Given the
+absence of standardized evaluation criteria for
+podcast-like audio generation, we developed
+comprehensive assessment guidelines to effectively evaluate the model’s performance. Experimental results demonstrate PodAgent’s effectiveness, significantly surpassing direct GPT-4
+generation in topic-discussion dialogue content, achieving an 87.4% voice-matching accuracy, and producing more expressive speech
+through LLM-guided synthesis. Demo page:
+https://podcast-agent.github.io/demo/. Source
+code: https://github.com/yujxx/PodAgent.
+
 # Understanding Screenwriters’ Practices, Attitudes, and Future Expectations in Human-AI Co-Creation (https://arxiv.org/pdf/2502.16153) - February, 2025
 With the rise of AI technologies and their growing influence in
 the screenwriting field, understanding the opportunities and concerns related to AI’s role in screenwriting is essential for enhancing
